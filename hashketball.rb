@@ -1,6 +1,5 @@
 # Write your code here!
 def game_hash
-  hashketball= {
     home: {
       team_name: "Brooklyn Nets"
       colors: ["Black", "White"]
@@ -46,5 +45,5 @@ def game_hash
    }
   ]
  }
-}
+
 end
