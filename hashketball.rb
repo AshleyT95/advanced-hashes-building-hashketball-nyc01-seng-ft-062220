@@ -6,7 +6,7 @@ def game_hash
       }
       :color []
       {:players => [
-        {:player_name =>  :number } , :shoe =>  :points ]  :rebounds =>
+        {:player_name =>  :number } , :shoe =>  :points ]  } rebounds =>
         :assists =>  :steals =>  :blocks =>  :slam_dunks =>
 
       ]
