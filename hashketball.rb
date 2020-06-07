@@ -3,7 +3,8 @@ def game_hash
   hashketball= {
     :home => {
       :team_name => () }
-      {:color => []}
+      }
+      :color => []}
       {:players => [
         {:player_name => ,:number => , :shoe => , :points => , :rebounds => ,
         :assists => , :steals => , :blocks => , :slam_dunks =>
